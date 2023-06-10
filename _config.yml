@@ -4,7 +4,7 @@
 
 # Name of your site (displayed in the header)
 name: Alfi Syahri
-
+webtype: Personal blog
 # Short bio or description (displayed in the header)
 description: Backend Developer that is not tied to anyone yet
 
@@ -22,7 +22,7 @@ footer-links:
   facebook:
   flickr:
   github: Alfi-Rzptr1
-  instagram:
+  instagram: knovvn_az_piii
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon

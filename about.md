@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Students who are still in school and discover that programming is my passion, by self-taught learning and information from the internet, which can add to my knowledge and experience as a backend developer
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Interested in backend development, studying Java and TypeScript, using Spring Boot, Express JS and Angular JS as main frameworks
 
 ### Contact me
 
